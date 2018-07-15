@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[tik_autorigger] - ...\armClass.py'" />
-    <option name="defaultScopeName" value="File '[tik_autorigger] - ...\armClass.py'" />
+    <option name="customScope" value="Project 'tik_manager'" />
+    <option name="defaultScopeName" value="Project 'tik_manager'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[tik_autorigger] - ...\armClass.py'" />
+    <option name="SEARCH_SCOPE" value="Project 'tik_manager'" />
   </component>
 </application>
