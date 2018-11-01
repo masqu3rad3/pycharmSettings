@@ -3,19 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/tik_manager/SmStandalone.py" timestamp="1541100204937">
-        <mark key="'" line="93" column="11" />
-        <mark key="[" line="91" column="22" />
-        <mark key="]" line="91" column="22" />
-        <mark key="." line="91" column="22" />
-        <mark key="^" line="91" column="22" />
+      <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/tik_manager/SmStandalone.py" timestamp="1541103426190">
+        <mark key="[" line="115" column="35" />
+        <mark key="]" line="115" column="34" />
+        <mark key="^" line="115" column="34" />
+        <mark key="." line="115" column="34" />
       </file>
       <file name="/Python Console" timestamp="1541100349330" />
-      <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/test/testGetExe.py" timestamp="1541101158741">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="58" />
-        <mark key="." line="6" column="9" />
+      <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/test/testGetExe.py" timestamp="1541101464185">
+        <mark key="[" line="15" column="91" />
+        <mark key="]" line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="15" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -26,10 +25,34 @@
         <text>os.path.isdir(os.path.join(rootPath, x))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uUm9vdHMgPSBbeCBmb3IgeCBpbiBvcy5saXN0ZGlyKHJvb3RQYXRoKSBpZiBvcy5wYXRoLmlzZGlyKG9zLnBhdGguam9pbihyb290UGF0aCwgeCkpcy5wYXRoLmlzZGlyKCldCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uUm9vdHMgPSBbeCBmb3IgeCBpbiBvcy5saXN0ZGlyKHJvb3RQYXRoKSBpZiBvcy5wYXRoLmlzZGlyKG9zLnBhdGguam9pbihyb290UGF0aCwgeCkpcy5wYXRoLmlzZGlyKCldCg==</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBleGVEaWN0ID0gc2VsZi5nZXRFeGVjdXRhYmxlcyhJRCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCBJRAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCAia2siLCB4ZVBhdGgK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICJrayIsIGV4ZVBhdGgKICAgICAgICAgICAgICAgICMgeWllbGQgZXhlUGF0aAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAiclBBdGgiLCBvcy5saXN0ZGlyKHJvb3RQYXRoKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAidiIsIHYK</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -60,6 +83,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
