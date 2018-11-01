@@ -1,13 +1,12 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/tik_manager/SmStandalone.py" timestamp="1541107327542">
-        <mark key="[" line="194" column="23" />
-        <mark key="]" line="194" column="21" />
-        <mark key="." line="194" column="21" />
-        <mark key="^" line="194" column="21" />
+      <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/tik_manager/SmStandalone.py" timestamp="1541108214871">
+        <mark key="[" line="245" column="34" />
+        <mark key="]" line="244" column="0" />
+        <mark key="." line="244" column="0" />
       </file>
       <file name="/Python Console" timestamp="1541100349330" />
       <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/test/testGetExe.py" timestamp="1541101464185">
@@ -25,37 +24,37 @@
         <text encoding="base64">ICAgICAgICBleGVMaXN0MzJCaXQgPSBzZWxmLmdldEV4ZWN1dGFibGVzKG9zLnBhdGguam9pbihwcm9ncmFtRmlsZXMzMiwgcERpY3RbInJvb3QiXSksIHBEaWN0WyJyZWxQYXRoIl0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwRGljdFsiZXhlTGlzdCJdLCBzZWFyY2h3b3JkPXBEaWN0WyJzZWFyY2hXb3JkIl0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgeCBpbiBleGVHZW42NEJpdDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgInJlZ2lzdGVyZWRWIiwgc2VsZi5fY3VycmVudFNjZW5lSW5mb1siSG91ZGluaVZlcnNpb24iXQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>x</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgInJlZ2lzdGVyZWRWIiwgc2VsZi5fY3VycmVudFNjZW5lSW5mb1siSG91ZGluaVZlcnNpb24iXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlNERiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCAiQVNERiIsIGV4ZURpY3Qua2V5cygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiSEVSRSIsIGV4ZUdlbjY0Qml0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCAiQVNERiIsIGV4ZURpY3Qua2V5cygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICJBc2RmIiwgZXhlUGF0aAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCBleGVEaWN0Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICMKICAgICAgICAjICAgICB0cnk6CiAgICAgICAgIyAgICAgICAgIGlmIGV4ZURpY3RbIjNkc01heCJdW3ZlcnNpb25OYW1lXVsiNjRiaXQiXToKICAgICAgICAjICAgICAgICAgICAgIGV4ZVBhdGggPSBleGVEaWN0WyIzZHNNYXgiXVt2ZXJzaW9uTmFtZV1bIjY0Yml0Il0KICAgICAgICAjICAgICAgICAgZWxzZToKICAgICAgICAjICAgICAgICAgICAgIGV4ZVBhdGggPSBleGVEaWN0WyIzZHNNYXgiXVt2ZXJzaW9uTmFtZV1bIjMyYml0Il0KICAgICAgICAjICAgICBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgIyAgICAgICAgIG1zZyA9ICIlcyBpcyBub3QgaW5zdGFsbGVkIG9uIHRoaXMgd29ya3N0YXRpb24iICV2ZXJzaW9uTmFtZQogICAgICAgICMgICAgICAgICBzZWxmLl9leGNlcHRpb24oMzYwLCBtc2cpCiAgICAgICAgIyAgICAgICAgIHJldHVybgogICAgICAgICMgICAgIHN1YnByb2Nlc3MuY2hlY2tfY2FsbChbZXhlUGF0aCwgc2VsZi5jdXJyZW50U2NlbmVQYXRoXSwgc2hlbGw9VHJ1ZSkKICAgICAgICAj</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhlMzIgPSBzZWxmLmdldEV4ZWN1dGFibGVzKHJvb3RQYXRoMzIpCg==</text>
+        <text encoding="base64">ICAgICAgICAjCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm9vdFBhdGg2NCA9IG9zLnBhdGguam9pbihwcm9ncmFtRmlsZXM2NCwgIkF1dG9kZXNrIikK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAjCiAgICAgICAgIyAgICAgdHJ5OgogICAgICAgICMgICAgICAgICBpZiBleGVEaWN0WyJNYXlhIl1bdmVyc2lvbk5hbWVdWyI2NGJpdCJdOgogICAgICAgICMgICAgICAgICAgICAgZXhlUGF0aCA9IGV4ZURpY3RbIk1heWEiXVt2ZXJzaW9uTmFtZV1bIjY0Yml0Il0KICAgICAgICAjICAgICAgICAgZWxzZToKICAgICAgICAjICAgICAgICAgICAgIGV4ZVBhdGggPSBleGVEaWN0WyJNYXlhIl1bdmVyc2lvbk5hbWVdWyIzMmJpdCJdCiAgICAgICAgIyAgICAgZXhjZXB0IEtleUVycm9yOgogICAgICAgICMgICAgICAgICBtc2cgPSAiTWF5YSAlcyBpcyBub3QgaW5zdGFsbGVkIG9uIHRoaXMgd29ya3N0YXRpb24iICV2ZXJzaW9uTmFtZQogICAgICAgICMgICAgICAgICBzZWxmLl9leGNlcHRpb24oMzYwLCBtc2cpCiAgICAgICAgIyAgICAgICAgIHJldHVybg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm9vdFBhdGgzMiA9IG9zLnBhdGguam9pbihwcm9ncmFtRmlsZXMzMiwgIkF1dG9kZXNrIikK</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBleGNlcHQgS2V5RXJyb3I6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgeCBpbiBleGVHZW42NEJpdDoK</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>Maya</text>
       </register>
     </registers>
     <search>
