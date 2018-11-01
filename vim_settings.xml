@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/tik_manager/SmStandalone.py" timestamp="1541103426190">
-        <mark key="[" line="115" column="35" />
-        <mark key="]" line="115" column="34" />
-        <mark key="^" line="115" column="34" />
-        <mark key="." line="115" column="34" />
+      <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/tik_manager/SmStandalone.py" timestamp="1541104214953">
+        <mark key="[" line="129" column="36" />
+        <mark key="]" line="129" column="37" />
+        <mark key="^" line="129" column="37" />
+        <mark key="." line="129" column="37" />
       </file>
       <file name="/Python Console" timestamp="1541100349330" />
       <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/test/testGetExe.py" timestamp="1541101464185">
@@ -27,8 +27,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBleGVEaWN0ID0gc2VsZi5nZXRFeGVjdXRhYmxlcyhJRCkK</text>
@@ -55,7 +55,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCAidiIsIHYK</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>}</text>
       </register>
     </registers>
     <search>
