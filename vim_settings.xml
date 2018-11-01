@@ -3,33 +3,64 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/tik_manager/SmStandalone.py" timestamp="1541099117671">
+      <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/tik_manager/SmStandalone.py" timestamp="1541100204937">
         <mark key="'" line="93" column="11" />
         <mark key="[" line="91" column="22" />
         <mark key="]" line="91" column="22" />
         <mark key="." line="91" column="22" />
         <mark key="^" line="91" column="22" />
       </file>
-      <file name="/Python Console" timestamp="1541099171486">
-        <mark key="[" line="0" column="0" />
+      <file name="/Python Console" timestamp="1541100349330" />
+      <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/test/testGetExe.py" timestamp="1541101158741">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="58" />
+        <mark key="." line="6" column="9" />
       </file>
     </filemarks>
     <jumps>
       <jump line="93" column="11" filename="$USER_HOME$/Documents/maya/scripts/tik_manager/tik_manager/SmStandalone.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="0" type="4">
+        <text>os.path.isdir(os.path.join(rootPath, x))</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uUm9vdHMgPSBbeCBmb3IgeCBpbiBvcy5saXN0ZGlyKHJvb3RQYXRoKSBpZiBvcy5wYXRoLmlzZGlyKG9zLnBhdGguam9pbihyb290UGF0aCwgeCkpcy5wYXRoLmlzZGlyKCldCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uUm9vdHMgPSBbeCBmb3IgeCBpbiBvcy5saXN0ZGlyKHJvb3RQYXRoKSBpZiBvcy5wYXRoLmlzZGlyKG9zLnBhdGguam9pbihyb290UGF0aCwgeCkpcy5wYXRoLmlzZGlyKCldCg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>o</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
