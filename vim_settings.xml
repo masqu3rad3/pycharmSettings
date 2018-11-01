@@ -1,0 +1,35 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/tik_manager/SmStandalone.py" timestamp="1541099117671">
+        <mark key="'" line="93" column="11" />
+        <mark key="[" line="91" column="22" />
+        <mark key="]" line="91" column="22" />
+        <mark key="." line="91" column="22" />
+        <mark key="^" line="91" column="22" />
+      </file>
+      <file name="/Python Console" timestamp="1541099171486">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="93" column="11" filename="$USER_HOME$/Documents/maya/scripts/tik_manager/tik_manager/SmStandalone.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>s</text>
+      </register>
+      <register name="-" type="4">
+        <text>s</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+  </component>
+</application>
