@@ -3,12 +3,17 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/maya/scripts/dev/tik_manager/tik_manager/SmHoudini.py" timestamp="1541231091825">
+        <mark key="[" line="641" column="63" />
+        <mark key="]" line="642" column="25" />
+        <mark key="^" line="642" column="25" />
+        <mark key="." line="642" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/tik_manager/SmStandalone.py" timestamp="1541108214871">
         <mark key="[" line="245" column="34" />
         <mark key="]" line="244" column="0" />
         <mark key="." line="244" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1541100349330" />
       <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/test/testGetExe.py" timestamp="1541101464185">
         <mark key="[" line="15" column="91" />
         <mark key="]" line="15" column="3" />
@@ -21,40 +26,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleGVMaXN0MzJCaXQgPSBzZWxmLmdldEV4ZWN1dGFibGVzKG9zLnBhdGguam9pbihwcm9ncmFtRmlsZXMzMiwgcERpY3RbInJvb3QiXSksIHBEaWN0WyJyZWxQYXRoIl0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwRGljdFsiZXhlTGlzdCJdLCBzZWFyY2h3b3JkPXBEaWN0WyJzZWFyY2hXb3JkIl0pCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMCwgIiIgICMgc2tpcAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgInJlZ2lzdGVyZWRWIiwgc2VsZi5fY3VycmVudFNjZW5lSW5mb1siSG91ZGluaVZlcnNpb24iXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIC0xLCBtZXNzYWdlCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgInJlZ2lzdGVyZWRWIiwgc2VsZi5fY3VycmVudFNjZW5lSW5mb1siSG91ZGluaVZlcnNpb24iXQo=</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCAiQVNERiIsIGV4ZURpY3Qua2V5cygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIC0xLCBtZXNzYWdlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCAiQVNERiIsIGV4ZURpY3Qua2V5cygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDAsIG1zZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCBleGVEaWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXNnID0gIiIK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICMKICAgICAgICAjICAgICB0cnk6CiAgICAgICAgIyAgICAgICAgIGlmIGV4ZURpY3RbIjNkc01heCJdW3ZlcnNpb25OYW1lXVsiNjRiaXQiXToKICAgICAgICAjICAgICAgICAgICAgIGV4ZVBhdGggPSBleGVEaWN0WyIzZHNNYXgiXVt2ZXJzaW9uTmFtZV1bIjY0Yml0Il0KICAgICAgICAjICAgICAgICAgZWxzZToKICAgICAgICAjICAgICAgICAgICAgIGV4ZVBhdGggPSBleGVEaWN0WyIzZHNNYXgiXVt2ZXJzaW9uTmFtZV1bIjMyYml0Il0KICAgICAgICAjICAgICBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgIyAgICAgICAgIG1zZyA9ICIlcyBpcyBub3QgaW5zdGFsbGVkIG9uIHRoaXMgd29ya3N0YXRpb24iICV2ZXJzaW9uTmFtZQogICAgICAgICMgICAgICAgICBzZWxmLl9leGNlcHRpb24oMzYwLCBtc2cpCiAgICAgICAgIyAgICAgICAgIHJldHVybgogICAgICAgICMgICAgIHN1YnByb2Nlc3MuY2hlY2tfY2FsbChbZXhlUGF0aCwgc2VsZi5jdXJyZW50U2NlbmVQYXRoXSwgc2hlbGw9VHJ1ZSkKICAgICAgICAj</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgInJlZ2lzdGVyZWRWIiwgc2VsZi5fY3VycmVudFNjZW5lSW5mb1siSG91ZGluaVZlcnNpb24iXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCAiQVNERiIsIGV4ZURpY3Qua2V5cygpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAjCiAgICAgICAgIyAgICAgdHJ5OgogICAgICAgICMgICAgICAgICBpZiBleGVEaWN0WyJNYXlhIl1bdmVyc2lvbk5hbWVdWyI2NGJpdCJdOgogICAgICAgICMgICAgICAgICAgICAgZXhlUGF0aCA9IGV4ZURpY3RbIk1heWEiXVt2ZXJzaW9uTmFtZV1bIjY0Yml0Il0KICAgICAgICAjICAgICAgICAgZWxzZToKICAgICAgICAjICAgICAgICAgICAgIGV4ZVBhdGggPSBleGVEaWN0WyJNYXlhIl1bdmVyc2lvbk5hbWVdWyIzMmJpdCJdCiAgICAgICAgIyAgICAgZXhjZXB0IEtleUVycm9yOgogICAgICAgICMgICAgICAgICBtc2cgPSAiTWF5YSAlcyBpcyBub3QgaW5zdGFsbGVkIG9uIHRoaXMgd29ya3N0YXRpb24iICV2ZXJzaW9uTmFtZQogICAgICAgICMgICAgICAgICBzZWxmLl9leGNlcHRpb24oMzYwLCBtc2cpCiAgICAgICAgIyAgICAgICAgIHJldHVybg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCAiQVNERiIsIGV4ZURpY3Qua2V5cygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBleGNlcHQgS2V5RXJyb3I6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCBleGVEaWN0Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgeCBpbiBleGVHZW42NEJpdDoK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICMKICAgICAgICAjICAgICB0cnk6CiAgICAgICAgIyAgICAgICAgIGlmIGV4ZURpY3RbIjNkc01heCJdW3ZlcnNpb25OYW1lXVsiNjRiaXQiXToKICAgICAgICAjICAgICAgICAgICAgIGV4ZVBhdGggPSBleGVEaWN0WyIzZHNNYXgiXVt2ZXJzaW9uTmFtZV1bIjY0Yml0Il0KICAgICAgICAjICAgICAgICAgZWxzZToKICAgICAgICAjICAgICAgICAgICAgIGV4ZVBhdGggPSBleGVEaWN0WyIzZHNNYXgiXVt2ZXJzaW9uTmFtZV1bIjMyYml0Il0KICAgICAgICAjICAgICBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgIyAgICAgICAgIG1zZyA9ICIlcyBpcyBub3QgaW5zdGFsbGVkIG9uIHRoaXMgd29ya3N0YXRpb24iICV2ZXJzaW9uTmFtZQogICAgICAgICMgICAgICAgICBzZWxmLl9leGNlcHRpb24oMzYwLCBtc2cpCiAgICAgICAgIyAgICAgICAgIHJldHVybgogICAgICAgICMgICAgIHN1YnByb2Nlc3MuY2hlY2tfY2FsbChbZXhlUGF0aCwgc2VsZi5jdXJyZW50U2NlbmVQYXRoXSwgc2hlbGw9VHJ1ZSkKICAgICAgICAj</text>
       </register>
       <register name="-" type="4">
-        <text>Maya</text>
+        <text>r</text>
       </register>
     </registers>
     <search>
@@ -63,6 +68,9 @@
     </search>
     <history>
       <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
