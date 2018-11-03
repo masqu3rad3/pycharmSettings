@@ -73,12 +73,6 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
