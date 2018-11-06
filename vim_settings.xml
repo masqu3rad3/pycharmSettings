@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/tik_manager/SmStandalone.py" timestamp="1541108214871">
@@ -8,7 +8,7 @@
         <mark key="]" line="244" column="0" />
         <mark key="." line="244" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/tik_manager/SmRoot.py" timestamp="1541534029142">
+      <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/tik_manager/SmRoot.py" timestamp="1541534079017">
         <mark key="a" line="1239" column="11" />
         <mark key="'" line="1249" column="29" />
         <mark key="[" line="1239" column="11" />
@@ -76,6 +76,12 @@
       <history-input />
     </history>
     <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
