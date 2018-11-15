@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/tik_manager/SmStandalone.py" timestamp="1541108214871">
@@ -8,18 +8,21 @@
         <mark key="]" line="244" column="0" />
         <mark key="." line="244" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1542311446632">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/maya/scripts/dev/tik_manager/tik_manager/SmHoudini.py" timestamp="1541231091825">
         <mark key="[" line="641" column="63" />
         <mark key="]" line="642" column="25" />
         <mark key="^" line="642" column="25" />
         <mark key="." line="642" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/tik_manager/projectMaterials.py" timestamp="1542310904699">
+      <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/tik_manager/projectMaterials.py" timestamp="1542311478565">
         <mark key="'" line="1015" column="8" />
-        <mark key="[" line="1008" column="8" />
-        <mark key="]" line="1008" column="18" />
-        <mark key="^" line="1008" column="18" />
-        <mark key="." line="1008" column="18" />
+        <mark key="[" line="1031" column="42" />
+        <mark key="]" line="1031" column="42" />
+        <mark key="^" line="1031" column="42" />
+        <mark key="." line="1031" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/maya/scripts/tik_manager/test/testGetExe.py" timestamp="1541101464185">
         <mark key="[" line="15" column="91" />
@@ -39,37 +42,37 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gMCwgIiIgICMgc2tpcAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYudmVydGljYWxMYXlvdXRfNS5hZGRMYXlvdXQoc2VsZi5ob3Jpem9udGFsTGF5b3V0KQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuYnJpZWZfbGlzdFdpZGdldC5ob3Jpem9udGFsSGVhZGVyKCkuc2V0U3RyZXRjaExhc3RTZWN0aW9uKFRydWUpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYudmVydGljYWxMYXlvdXRfNS5hZGRMYXlvdXQoc2VsZi5ob3Jpem9udGFsTGF5b3V0KQo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuYnJpZWZfbGlzdFdpZGdldC5zZXRIb3Jpem9udGFsSGVhZGVySXRlbSgxLCBpdGVtKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIGl0ZW0uc2V0VGV4dCgoIkRhdGUiKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuaG9yaXpvbnRhbExheW91dC5hZGRXaWRnZXQoc2VsZi5zdG9yeWJvYXJkX2xpc3RXaWRnZXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGl0ZW0gPSBRdFdpZGdldHMuUVRhYmxlV2lkZ2V0SXRlbSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjICMgc2VsZi5zdGJfbGlzdFdpZGdldC5ob3Jpem9udGFsSGVhZGVyKCkuc2V0U3RyZXRjaExhc3RTZWN0aW9uKFRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuYnJpZWZfbGlzdFdpZGdldC5zZXRIb3Jpem9udGFsSGVhZGVySXRlbSgwLCBpdGVtKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjICMgc2VsZi5zdGJfbGlzdFdpZGdldC5zZXRIb3Jpem9udGFsSGVhZGVySXRlbSgxLCBpdGVtKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGl0ZW0uc2V0VGV4dCgoIk5hbWUiKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjICMgaXRlbS5zZXRUZXh0KCgiRGF0ZSIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGl0ZW0gPSBRdFdpZGdldHMuUVRhYmxlV2lkZ2V0SXRlbSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjICMgaXRlbSA9IFF0V2lkZ2V0cy5RVGFibGVXaWRnZXRJdGVtKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuYnJpZWZfbGlzdFdpZGdldC5zZXRSb3dDb3VudCgwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjICMgc2VsZi5zdGJfbGlzdFdpZGdldC5zZXRIb3Jpem9udGFsSGVhZGVySXRlbSgwLCBpdGVtKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuYnJpZWZfbGlzdFdpZGdldC5zZXRDb2x1bW5Db3VudCgyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>t</text>
       </register>
     </registers>
     <search>
@@ -97,6 +100,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
