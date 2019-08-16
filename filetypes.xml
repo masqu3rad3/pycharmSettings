@@ -5,6 +5,7 @@
       <mapping ext="stylesheet" type="CSS" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="(9" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="qss" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
