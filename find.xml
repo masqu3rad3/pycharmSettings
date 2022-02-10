@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="File '…\python\trigger\ui\main.py'" />
+    <option name="defaultScopeName" value="File '…\python\trigger\ui\main.py'" />
+    <option name="SEARCH_SCOPE" value="File '…\python\trigger\ui\main.py'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
